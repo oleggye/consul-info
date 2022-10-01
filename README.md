@@ -15,3 +15,6 @@
 4. [Авто](https://oleggye.github.io/consul-info/docs/auto/main.md)
     1. [Парковка](https://oleggye.github.io/consul-info/docs/auto/parking.md)
 5. [Развлечения](https://oleggye.github.io/consul-info/docs/entertainment/main.md)
+6. [Полезности](https://oleggye.github.io/consul-info/docs/utility/main.md)
+    1. [Приложения](https://oleggye.github.io/consul-info/docs/utility/app.md)
+    2. [Еда](https://oleggye.github.io/consul-info/docs/utility/food.md)
