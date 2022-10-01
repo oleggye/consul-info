@@ -16,6 +16,7 @@
     1. [Парковка](https://oleggye.github.io/consul-info/docs/auto/parking.md)
 5. [Развлечения](https://oleggye.github.io/consul-info/docs/entertainment/main.md)
 6. [Банки и обем валюты](https://oleggye.github.io/consul-info/docs/bank/main.md)
-7. [Полезности](https://oleggye.github.io/consul-info/docs/utility/main.md)
+7. [Польский язык](https://oleggye.github.io/consul-info/docs/polish/main.md)
+8. [Полезности](https://oleggye.github.io/consul-info/docs/utility/main.md)
     1. [Приложения](https://oleggye.github.io/consul-info/docs/utility/app.md)
     2. [Еда](https://oleggye.github.io/consul-info/docs/utility/food.md)
